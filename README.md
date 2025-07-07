@@ -199,9 +199,3 @@ npm run build
 * Si usas otro puerto MySQL, cambia `DB_PORT`.
 
 ---
-
-## 📝 Autor
-
-Desarrollado como ejemplo para taller de NestJS + MySQL.
-
-```
